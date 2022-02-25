@@ -1,6 +1,4 @@
-### Olá, eu sou o Lucas Rafael 👋
-
-Here are some ideas to get you started:
+### <h1>Lucas Rafael</h1>
 
 - 🔭 Atualmente estou trabalhando como estagiário de TI, com a linguagem advpl, projetos webs e suporte Protheus 
 - 🌱 Aprendendo advpl, csharp e angular
@@ -18,7 +16,7 @@ Here are some ideas to get you started:
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="" height="34" width="40" src="https://cdn.icon-icons.com/icons2/2148/PNG/128/totvs_icon_131953.png">  
+  <img align="center" alt="" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2148/PNG/128/totvs_icon_131953.png">  
     
  
 
