@@ -1,6 +1,6 @@
 ### <h1>Lucas Rafael</h1>
 
-- 🔭 Atualmente estou trabalhando como estagiário de TI, com a linguagem advpl, projetos webs e suporte Protheus 
+- 🔭 Atualmente estou trabalhando como estagiário de TI, com a linguagem AdvPL, projetos webs e suporte Protheus 
 - 🌱 Aprendendo advpl, csharp e angular
 
 <div align="center">
