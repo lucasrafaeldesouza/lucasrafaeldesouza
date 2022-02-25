@@ -1,6 +1,6 @@
 ### <h1>Lucas Rafael</h1>
 
-- 🔭 Trabalho com AdvPL,suporte Protheus e projetos webs
+- 🔭 Trabalho com AdvPL, suporte Protheus e Projetos Webs
 - 🌱 Aprendendo AdvPL, csharp e angular
     
   <div style="display: inline_block"><br>
